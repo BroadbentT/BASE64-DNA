@@ -1,5 +1,5 @@
 # BASE64/DNA ENCODER
-**A PYTHON SCRIPT FILE TO ENCODE AND DECODE BASE64/DNA BASED TEXT STRINGS**
+**A Python Script File To Encode And Decode Base64/DNA Based Text Strings**
 
 <p align="center">
   <img src="https://github.com/BroadbentT/BASE64-DNA/blob/master/DNA%20Base64%20Encoding%20in%20Neon%20Python%20Tech.png">
